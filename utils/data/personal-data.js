@@ -12,5 +12,5 @@ export const personalData = {
   twitter: 'https://x.com/rcbforevr',
   leetcode: "#",
   devUsername: "AmitSha",
-  resume: "https://drive.google.com/file/d/1Vz2hW0dFibzy6fZzmce7cL9F-O9Ck0SO/view?usp=sharing"
+  resume: "https://docs.google.com/document/d/1ySLPD_syb1DFuo6qMluxJ0qlBU5QLRiZp-S5PhBYWus/edit?usp=sharing"
 }
