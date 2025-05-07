@@ -1,10 +1,10 @@
 export const contactsData = {
-    email: 'shatagaramit6@gmaiil.com',
-    phone: '+916363532864',
-    address: 'Bengaluru, Karnataka, India 🇮🇳 - 560100 ',
-    github: 'https://github.com/Amit-Shatagar',
-    facebook: 'https://www.facebook.com/amit.mass.35/',
-    linkedIn: 'https://www.linkedin.com/in/AmitShatagar/',
-    twitter: 'https://x.com/rcbforevr',
-    devUsername: "AmitSha"
-}
+  email: "shreyakmukherjee143@gmail.com",
+  phone: "+919832188947",
+  address: "I-6/7, DPL, Durgapur-02, Paschim Bardhaman, West Bengal, India",
+  github: "https://github.com/shreyakmukherjee",
+  facebook: "https://www.facebook.com/shreyak.mukherjee/",
+  linkedIn: "https://www.linkedin.com/in/shreyak-mukherjee-203558275/",
+  twitter: "https://x.com/SHREYAKMUK24222",
+  devUsername: "AmitSha",
+};

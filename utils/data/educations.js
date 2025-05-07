@@ -1,21 +1,23 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree(BCA)",
-    duration: "2021 - 2024",
-    institution: "Sharnbasva University Kalaburgi",
-    Res: "Result - CGPA 9.45/10"
+    title: "B.Tech - Computer Science & Engineering",
+    duration: "2022 - 2026",
+    institution: "Dr. B.C. Roy Engineering College, Durgapur",
+    Res: "Result - CGPA 8.4/10",
   },
   {
     id: 2,
-    title: "Senior Secondary (12th)",
-    duration: "2020 - 2021",
-    institution: "Shakunta Patil PU Collage of Science",
+    title: " Higher Secondary Education (12th)",
+    duration: "2020 - 2022",
+    institution: " Durgapur Taraknath High School",
+    Res: "Result - 89%",
   },
   {
     id: 3,
-    title: "Secondary School (10th)",
-    duration: "2018 - 2019",
-    institution: "Goverment High School Harsoor",
-  }
-]
+    title: "Secondary  Education (10th)",
+    duration: "2019 - 2020",
+    institution: "Durgapur Project Township Boys High School",
+    Res: "Result - 89.72%",
+  },
+];

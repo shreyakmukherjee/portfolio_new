@@ -1,42 +1,66 @@
 export const projectsData = [
-    {
-        id: 1,
-        name: 'CHALAK AI 🤖',
-        description: "Me and my Friends built an AI-powered Chalak AI mobile application. Chalak AI is similar to the automated chat services found on customer service websites, as people can ask it questions or request clarification to Chalak AI's replies. The AI(GPT) stands for Generative Pre-trained Transformer, which refers to how Chalak AI processes requests and formulates responses.",
-        tools: ['Open AI', 'MongoDB', 'OpenAI API', 'React Js', 'Node Js', 'html', 'Javascript', 'netlify', 'PM2', 'Nginx'],
-        role: 'Frontend Developer',
-        code: '',
-        demo: '',
-    },
-    {
-        id: 2,
-        name: 'TRAVEL INDIA APP 🗺️',
-        description: 'I have designed and developed a full-stack web app for prediction and best places in INDIA and best cost effective trip. I created the UI using NextJS, Typescript, MUI, TailwindCSS, Google Maps, Sun-Editor, and React Slick. The app supports multiple languages and currencies. I developed the API using NestJS, Typescript, MySQL, React Js, and Nodemailer. I deployed the front-end.',
-        tools: ['NextJS', 'Tailwind CSS', "Google Maps", "Html", "CSS", "MySQL", "JaaScript", "Figma", "PhP"],
-        role: 'Full Stack Developer',
-        code: '',
-        demo: '',
-    },
-    {
-        id: 3,
-        name: 'AI TRAFFIC ENFORCEMENT SYSTEM🚦',
-        description: 'Our project focuses on implementing a sophisticated camera-based system to enforce traffic rules by tracking and capturing images of bikes, including their license plates. This technology aims to enhance road safety and ensure compliance with traffic regulations.',
-        tools: ['React', 'Bootstrap', 'SCSS', 'Stripe', 'Express', 'TypeScript', 'MongoDB', 'Azure Blob', 'OpenAI API', 'Replicate AI', 'Cronjob', 'JWT'],
-        code: '',
-        role: 'AI & ML Developer',
-        demo: '',
-    },
-    {
-        id: 4,
-        name: 'AI OBJECT IDENTIFIRE 🔍',
-        description: "The AI Object Identifier project focuses on developing a system that utilizes artificial intelligence to accurately identify, categorize, and label objects in images or videos, enhancing automation and improving data processing efficiency.",
-        tools: ['Python', 'Open AI', 'Transflow', 'Numpy', 'Media py', "Netlify"],
-        role: 'AI & ML Developer',
-        code: '',
-        demo: '',
-    }
-];
+  {
+    id: 1,
+    name: "Image Classification WebApp 🖼️",
+    description:
+      "This web application performs image classification using a trained deep learning model. Users can upload images, and the model predicts the class label of the image in real time. The backend is powered by Flask, and the app integrates a TensorFlow-based model to perform predictions, demonstrating practical deployment of deep learning in computer vision tasks.",
+    tools: [
+      "Python",
+      "TensorFlow",
+      "Keras",
+      "Flask",
+      "NumPy",
+      "PIL",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Streamlit",
+    ],
+    role: "Machine Learning Engineer",
+    code: "https://github.com/shreyakmukherjee/Image-Classification-WebApp",
+    demo: "",
+  },
 
+  {
+    id: 2,
+    name: "Sentiment Analysis: Restaurant Reviews 🍽️",
+    description:
+      "This machine learning project performs sentiment analysis on restaurant reviews to classify them as positive or negative. It involves preprocessing the text data using NLP techniques such as tokenization, stemming, and stopword removal. A Naive Bayes classifier is trained on the processed data to make predictions. The project demonstrates how Natural Language Processing can be used to extract insights from textual customer feedback.",
+    tools: [
+      "Python",
+      "NLTK",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Jupyter Notebook",
+    ],
+    role: "Data Analyst",
+    code: "https://github.com/shreyakmukherjee/Sentiment_Analysis_Restaurant_Reviews",
+    demo: "",
+  },
+
+  {
+    id: 4,
+    name: "Customer Purchase Prediction 🛍️",
+    description:
+      "This project uses a machine learning classification model to predict whether a customer will purchase a product based on demographic and behavioral features such as age, gender, and estimated salary. The pipeline includes data preprocessing, model training using Logistic Regression, and visualizing decision boundaries. It demonstrates the application of supervised learning in business analytics.",
+    tools: [
+      "Python",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn",
+      "Jupyter Notebook",
+    ],
+    role: "AI & ML Developer",
+    code: "https://github.com/shreyakmukherjee/Predict-Customer-will-purchase-a-product-or-not-",
+    demo: "",
+  },
+
+  // add project here .................
+];
 
 // Do not remove any property.
 // Leave it blank instead as shown below

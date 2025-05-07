@@ -1,16 +1,18 @@
 export const personalData = {
-  name: "AMIT SHATAGAR",
-  profile: '/profile.png',
-  designation: " FullStack Developer",
-  description: "My name is AMIT SHATAGAR. I am a Fresher and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'shatagaramit6@gmail.com',
-  phone: '+91 6363532864',
-  address: 'Bengaluru Karnataka, India 🇮🇳 - 560100 ',
-  github: 'https://github.com/Amit-Shatagar',
-  facebook: 'https://www.facebook.com/amit.mass.35/',
-  linkedIn: 'https://www.linkedin.com/in/AmitShatagar/',
-  twitter: 'https://x.com/rcbforevr',
+  name: "SHREYAK MUKHERJEE",
+  profile: "/profile.png",
+  designation: " AI/ML Enthusiast & Deep Learning Practitioner",
+  description:
+    "My name is Shreyak Mukherje. I’m a passionate Machine Learning and Deep Learning enthusiast with a solid foundation in computer science, specializing in building intelligent systems that bridge the gap between data and real-world impact—particularly in areas like computer vision, natural language processing, and predictive analytics. With hands-on experience in Python, TensorFlow, PyTorch, and Scikit-learn, I develop, train, and deploy robust ML models from scratch, covering the full development cycle—from data preprocessing and hyperparameter tuning to deploying scalable solutions using Streamlit, Flask, and Docker. Curious by nature and driven by innovation, I’m always eager to take on challenging problems and collaborate on projects that push the boundaries of AI, whether in research, development, or real-time applications.",
+  email: "shreyakmukherjee143@gmail.com",
+  phone: "+919832188947",
+  address: "I-6/7, DPL, Durgapur-02, Paschim Bardhaman, West Bengal, India",
+  github: "https://github.com/shreyakmukherjee",
+  facebook: "https://www.facebook.com/shreyak.mukherjee/",
+  linkedIn: "https://www.linkedin.com/in/shreyak-mukherjee-203558275/",
+  twitter: "https://x.com/SHREYAKMUK24222",
   leetcode: "#",
   devUsername: "AmitSha",
-  resume: "https://docs.google.com/document/d/1ySLPD_syb1DFuo6qMluxJ0qlBU5QLRiZp-S5PhBYWus/edit?usp=sharing"
-}
+  resume:
+    "https://drive.google.com/file/d/1acsEbKWjX5f2mgra1DZF1bjV7PAfBiIg/view?usp=sharing",
+};
